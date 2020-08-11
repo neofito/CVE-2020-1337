@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryPlanting", "BinaryPlanting\BinaryPlanting.csproj", "{D9C2E3C1-E9CC-42B0-A67C-B6E1A4F962CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C2E3C1-E9CC-42B0-A67C-B6E1A4F962CC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C2E3C1-E9CC-42B0-A67C-B6E1A4F962CC}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D9C2E3C1-E9CC-42B0-A67C-B6E1A4F962CC}.Debug|x64.ActiveCfg = Release|x64
+		{D9C2E3C1-E9CC-42B0-A67C-B6E1A4F962CC}.Debug|x64.Build.0 = Release|x64
+		{D9C2E3C1-E9CC-42B0-A67C-B6E1A4F962CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C2E3C1-E9CC-42B0-A67C-B6E1A4F962CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C2E3C1-E9CC-42B0-A67C-B6E1A4F962CC}.Release|x64.ActiveCfg = Release|x64
+		{D9C2E3C1-E9CC-42B0-A67C-B6E1A4F962CC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB8B7A96-ABEB-4110-8BE0-1C59198D2A08}
+	EndGlobalSection
+EndGlobal
